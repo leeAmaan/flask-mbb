@@ -1,6 +1,5 @@
 .idea/
-__pycache__/
-config.py
-migrations/
 mbb.db
-mbb/
+*.pyc
+__pycache__/
+migrations
